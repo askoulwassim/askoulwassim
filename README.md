@@ -1,6 +1,6 @@
 # Hi, I'm Wassim 👋
 
-**Data Tsar · Builder by Craft · Entrepreneur by Instinct**
+**Data Tsar · Builder by Craft · Entrepreneur by Instinct**<br>
 I ship platforms that make AI inevitable.
 
 I'm a Principal Product Manager who still writes code. By day I lead the Data Platform and GenAI work at [G-P](https://www.g-p.com). By night I build agent-native tools that turn ideas into working software, fast.
