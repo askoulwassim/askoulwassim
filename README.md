@@ -21,7 +21,7 @@ I'm a Principal Product Manager who still writes code. By day I lead the Data Pl
 | [**perfect-placement**](https://github.com/askoulwassim/perfect-placement) | Your job search, run by your agents, on your machine. A local-first, open-source agent toolkit that finds roles, scores fit, tailors materials, and drafts outreach. It never sends or submits without you. |
 | **Specdr** | An open-core, spec-driven development framework built on Claude Code. Idea to working POC to production pipeline, with humans deciding and agents carrying. |
 | **RIP'D** | A trading card game companion that uses computer vision and AI for collectors. |
-| **AI Anvil** | My home for experiments and writing on making AI practical and accessible. |
+| [**AI Anvil**] (http://aianvil.co/) | My home for experiments and writing on making AI practical and accessible. |
 
 ### 🧰 Toolbox
 
